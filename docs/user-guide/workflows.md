@@ -1,3 +1,3 @@
-# QA Delta — v1 workflows
+# QA Delta — release-2 workflows
 
-[Overview](overview.md).
+[Overview](overview.md). Release workflow is distinct from v1.

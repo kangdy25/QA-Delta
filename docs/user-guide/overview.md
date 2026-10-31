@@ -1,3 +1,3 @@
-# QA Delta — v1 user overview
+# QA Delta — release-2 user overview
 
 [Workflows](workflows.md) · [Home](../index.md)

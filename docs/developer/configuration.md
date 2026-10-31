@@ -1,3 +1,3 @@
-# QA Delta — v1 configuration
+# QA Delta — release-2 configuration
 
 [Integration](integration.md).
