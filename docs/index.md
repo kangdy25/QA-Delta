@@ -1,3 +1,3 @@
-# QA Delta — release-2
+# QA Delta — main later commit
 
-[User overview](user-guide/overview.md) · [Integration](developer/integration.md) · [Walkthrough](media/walkthrough.mp4)
+This main revision is newer than release-2 but should not be selected. [Overview](user-guide/overview.md).
